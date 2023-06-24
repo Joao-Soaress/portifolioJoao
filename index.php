@@ -271,7 +271,7 @@
             <a href="index.php" class="line text-nav" onclick="linkOpenNav('secao1')">Home</a>
             <a href="#about" class="line text-nav" onclick="linkOpenNav('secao2')">O que Fazemos</a>
             <a href="#modelo" class="line text-nav" onclick="linkOpenNav('secao3')">Modelos</a>
-            <a href="https://wa.me/5537999066606" class="line text-nav" onclick="linkOpenNav('secao4')"
+            <a href="#contato" class="line text-nav" onclick="linkOpenNav('secao4')"
                 target="_blank">Contato</a>
         </div>
     </nav>
@@ -399,7 +399,7 @@
                             class="card-img-top">
                     </div>
                     <button class="btn-portifolio btn-dark" style="font-family: 'Poppins', sans-serif;">
-                        <a href="" class="text-decoration-none">Entre em contato</a>
+                        <a href="https://wa.me/5537999066606" class="text-decoration-none">Entre em contato</a>
                     </button>
                 </div>
                 <div class="col-lg-5 col-md-12 display-teste">
