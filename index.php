@@ -590,9 +590,9 @@
         <div class="text-footer">
             <h6>Trabalhando para oferecer o melhor para você.</h6>
             <div class="icons">
-                <a href=""><img src="img/icons8-telegram-48.png" alt=""></a>
-                <a href=""><img src="img/icons8-twitter-48.png" alt=""></a>
-                <a href=""> <img src="img/icons8-github-48.png" alt=""></a>
+                <a href="https://t.me/cybergenn"><img src="img/icons8-telegram-48.png" alt=""></a>
+                <a href=""><img src="img/icons8-instagram-94.png" alt=""></a>
+                <a href="https://github.com/Joaodev777"> <img src="img/icons8-github-48.png" alt=""></a>
             </div>
         </div>
     </footer>
