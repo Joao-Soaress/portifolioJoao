@@ -954,6 +954,11 @@ a {
   margin-top: 30vh;
 }
 /* .gtx-about-m2{} */
+@media screen and (max-width: 900px) {
+  .grid__projetos{
+  display:block;
+  }
+}
 @media screen and (max-width: 750px) {
   .nav-title {
     margin-left: auto;
